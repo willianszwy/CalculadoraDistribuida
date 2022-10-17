@@ -2,12 +2,6 @@
 
 Calculadora distribuida feita em erlang
 
-# Equipe
-
-    Evandro Padilha Barroso
-    Jansen Saunier de Alcantara Junior
-    Willians Amaral De Oliveira
-    Yasser Schuck Antonio Tuma
 
 # dist:
 
